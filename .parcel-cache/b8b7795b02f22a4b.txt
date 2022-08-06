@@ -47,7 +47,7 @@
 91C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\core\test\fixtures\main-mjs133042395474179372 1
 53C:\Users\HP\Documents\GitHub\goit-js-hw-10\src\images133042393644391471 1
 114C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\optimizer-image\parcel-image.linux-arm64-musl.node133042395456439777 0
-47C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist133042874175441939 1
+47C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist133042902056887830 1
 78C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\path-type\package.json133042395390416492 0
 71C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\lodash.debounce133042431413902727 1
 106C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\htmlnano\lib\modules\deduplicateAttributeValues.js133042395421049456 0
@@ -135,7 +135,7 @@
 99C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\accelerometer.js133042395414808919 0
 83C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\css-tree\lib\lexer\Lexer.js133042395453774130 0
 74C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\micromatch\LICENSE133042395390635892 0
-55C:\Users\HP\Documents\GitHub\goit-js-hw-10\package.json133042431415776454 0
+55C:\Users\HP\Documents\GitHub\goit-js-hw-10\package.json133042901675610915 0
 77C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\css-what\lib\commonjs133042395436179784 1
 78C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\svgo\lib\svgo\jsAPI.js133042395438942977 0
 79C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\picocolors\package.json133042395408231031 0
@@ -286,7 +286,7 @@
 96C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\node-gyp-build-optional-packages\LICENSE133042395390533701 0
 62C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\braces133042395414808919 1
 79C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\domhandler\lib\index.js133042395398313909 0
-65C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.9f150ba7.js133042874174884062 0
+65C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.9f150ba7.js133042902056855456 0
 70C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\node-gyp-build133042395416788544 1
 104C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\html-media-capture.js133042395560871800 0
 62C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\base-x133042395410081922 1
@@ -645,7 +645,7 @@
 92C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\css-tree\lib\lexer\generic-urange.js133042395449257362 0
 92C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\dom-serializer\node_modules\entities133042395430356449 1
 111C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\document-scrollingelement.js133042395509060167 0
-145C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133042395433620317 1
+145C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules133042395433780304 1
 65C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\picomatch133042395422272166 1
 71C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\is-glob\LICENSE133042395390817179 0
 90C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\css-tree\lib\syntax\atrule\page.js133042395460778621 0
@@ -1321,7 +1321,7 @@
 94C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\svgo\plugins\addClassesToSVGElement.js133042395421209466 0
 91C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\svgo\plugins\cleanupListOfValues.js133042395428525766 0
 69C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\svgo\lib\svgo133042395457758505 1
-157C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm133042395433780304 1
+157C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm133042395459075639 1
 70C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\notiflix\build133042397511690979 1
 86C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\svgo\plugins\collapseGroups.js133042395431270868 0
 104C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\css-widows-orphans.js133042395507695420 0
@@ -3377,7 +3377,7 @@
 83C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\transformer-raw\src133042395404153492 1
 80C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\watcher\src\unix133042395425727817 1
 93C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\ch-unit.js133042395460699012 0
-114C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133042395433219013 1
+114C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm133042395433460514 1
 102C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\childnode-remove.js133042395461241323 0
 117C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133042395461954166 0
 98C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\caniuse-lite\data\features\console-time.js133042395463687439 0
@@ -4302,7 +4302,7 @@
 128C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\index.js133042395439662908 0
 132C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json133042395459308471 0
 130C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js133042395416868367 0
-132C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133042395433460514 1
+132C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0133042395433620317 1
 170C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\package.json133042395459258497 0
 167C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\source.js133042395453854122 0
 111C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\@parcel\node-resolver-core\test\fixture\nested\index.js133042395438623370 0
@@ -4724,12 +4724,12 @@
 69C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\.bin\svgo.cmd133042395585065382 0
 69C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\.bin\svgo.ps1133042395585065382 0
 71C:\Users\HP\Documents\GitHub\goit-js-hw-10\node_modules\.bin\terser.ps1133042395585065382 0
-66C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.8ec1f7bb.css133042874174884062 0
-70C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.8ec1f7bb.css.map133042874175063586 0
-69C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.9f150ba7.js.map133042874175063586 0
-65C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.d4ffa676.js133042874174894034 0
-69C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.d4ffa676.js.map133042874175125388 0
-58C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.html133042874174884062 0
+66C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.8ec1f7bb.css133042902056845464 0
+70C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.8ec1f7bb.css.map133042902056855456 0
+69C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.9f150ba7.js.map133042902056887830 0
+65C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.d4ffa676.js133042902056887830 0
+69C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.d4ffa676.js.map133042902056887830 0
+58C:\Users\HP\Documents\GitHub\goit-js-hw-10\dist\index.html133042902056845464 0
 75C:\Users\HP\Documents\GitHub\goit-js-hw-10\assets\actions-config-step-1.png132987303040000000 0
 75C:\Users\HP\Documents\GitHub\goit-js-hw-10\assets\actions-config-step-2.png132987303040000000 0
 67C:\Users\HP\Documents\GitHub\goit-js-hw-10\assets\repo-settings.png132987303040000000 0
